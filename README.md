@@ -1,7 +1,7 @@
 # WB Power Services - Equipment Failure Prediction Dashboard
 
-[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-blue?style=for-the-badge)](https://YOUR-USERNAME.github.io/wb-power-dashboard/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/wb-power-dashboard)
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-blue?style=for-the-badge)](https://simaco-do.github.io/wb-power-dashboard/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/simaco-do/wb-power-dashboard)
 
 > **MSc Dissertation Project**  
 > Developing an Advanced Machine Learning Algorithm for Equipment Failure Prediction:  
@@ -11,7 +11,7 @@
 
 ## 🎯 Live Dashboard
 
-**[Click here to view the live interactive dashboard →](https://YOUR-USERNAME.github.io/wb-power-dashboard/)**
+**[Click here to view the live interactive dashboard →](https://simaco-do.github.io/wb-power-dashboard/)**
 
 ---
 
@@ -219,8 +219,8 @@ If you use this dashboard or findings in your research, please cite:
 
 - **Live Dashboard:** [https://simaco-do.github.io/wb-power-dashboard/](https://simaco-do.github.io/wb-power-dashboard/)
 - **GitHub Repository:** [https://github.com/simaco-do/wb-power-dashboard](https://github.com/simaco-do/wb-power-dashboard)
-- **LinkedIn:** [Simon Akporowhe](https://www.linkedin.com/in/Simon Akporowhe)
-- **University:** [University of Bradford](https://www.bradford.ac.uk/)
+- **LinkedIn:** Simon Akporowhe(https://www.linkedin.com/in/Simon.Akporowhe)
+- **University:** University of Bradford(https://www.bradford.ac.uk/)
 
 ---
 
@@ -233,8 +233,8 @@ Student ID: 24044525
 
 For questions about this research or dashboard:
 - 📧 Email: simonakporowh40@gmail.com
-- 💼 LinkedIn: [Simon Akporowhe](https://www.linkedin.com/in/simon Akporowhe)
-- 🐙 GitHub: [@Ysimaco-do](https://github.com/simaco-do)
+- 💼 LinkedIn: Simon Akporowhe(https://www.linkedin.com/in/simon.Akporowhe)
+- 🐙 GitHub: @simaco-do(https://github.com/simaco-do)
 
 ---
 
