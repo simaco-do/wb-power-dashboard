@@ -257,3 +257,7 @@ The dashboard is publicly accessible for educational and research purposes.
 ---
 
 
+[⬆ Back to Top](#wb-power-services---equipment-failure-prediction-dashboard)
+
+</div>
+
