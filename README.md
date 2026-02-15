@@ -256,19 +256,4 @@ The dashboard is publicly accessible for educational and research purposes.
 
 ---
 
-## 📊 Dashboard Stats
 
-##![Visitors](https://img.shields.io/badge/Visitors-Track%20with%20Analytics-blue)
-##![Data Points](https://img.shields.io/badge/Data%20Points-3.97M-green)
-##![Accuracy](https://img.shields.io/badge/Accuracy-96.41%25-success)
-##![F1 Score](https://img.shields.io/badge/F1%20Score-96.52%25-success)
-
----
-
-##<div align="center">
-
-**Made with ❤️ for advancing predictive maintenance in critical power services**
-
-[⬆ Back to Top](#wb-power-services---equipment-failure-prediction-dashboard)
-
-</div>
