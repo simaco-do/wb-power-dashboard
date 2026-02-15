@@ -219,7 +219,7 @@ If you use this dashboard or findings in your research, please cite:
 
 - **Live Dashboard:** [https://simaco-do.github.io/wb-power-dashboard/](https://simaco-do.github.io/wb-power-dashboard/)
 - **GitHub Repository:** [https://github.com/simaco-do/wb-power-dashboard](https://github.com/simaco-do/wb-power-dashboard)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/Simon Akporowhe)
+- **LinkedIn:** [Simon Akporowhe](https://www.linkedin.com/in/Simon Akporowhe)
 - **University:** [University of Bradford](https://www.bradford.ac.uk/)
 
 ---
@@ -233,7 +233,7 @@ Student ID: 24044525
 
 For questions about this research or dashboard:
 - 📧 Email: simonakporowh40@gmail.com
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/simon Akporowhe)
+- 💼 LinkedIn: [Simon Akporowhe](https://www.linkedin.com/in/simon Akporowhe)
 - 🐙 GitHub: [@Ysimaco-do](https://github.com/simaco-do)
 
 ---
