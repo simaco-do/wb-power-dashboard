@@ -127,7 +127,7 @@ wb-power-dashboard/
 ## 🚀 How to Use
 
 ### View Online
-Simply visit: **[https://YOUR-USERNAME.github.io/wb-power-dashboard/](https://YOUR-USERNAME.github.io/wb-power-dashboard/)**
+Simply visit: **[https://simaco-do.github.io/wb-power-dashboard/](https://simaco-do.github.io/wb-power-dashboard/)**
 
 ### Run Locally
 1. Clone this repository:
@@ -217,9 +217,9 @@ If you use this dashboard or findings in your research, please cite:
 
 ## 🔗 Links
 
-- **Live Dashboard:** [https://YOUR-USERNAME.github.io/wb-power-dashboard/](https://YOUR-USERNAME.github.io/wb-power-dashboard/)
-- **GitHub Repository:** [https://github.com/YOUR-USERNAME/wb-power-dashboard](https://github.com/YOUR-USERNAME/wb-power-dashboard)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR-PROFILE)
+- **Live Dashboard:** [https://simaco-do.github.io/wb-power-dashboard/](https://simaco-do.github.io/wb-power-dashboard/)
+- **GitHub Repository:** [https://github.com/simaco-do/wb-power-dashboard](https://github.com/simaco-do/wb-power-dashboard)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/Simon Akporowhe)
 - **University:** [University of Bradford](https://www.bradford.ac.uk/)
 
 ---
@@ -232,9 +232,9 @@ University of Bradford
 Student ID: 24044525
 
 For questions about this research or dashboard:
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/YOUR-PROFILE)
-- 🐙 GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- 📧 Email: simonakporowh40@gmail.com
+- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/simon Akporowhe)
+- 🐙 GitHub: [@Ysimaco-do](https://github.com/simaco-do)
 
 ---
 
@@ -251,7 +251,7 @@ The dashboard is publicly accessible for educational and research purposes.
 
 - **WB Power Services Ltd** for providing access to the Protean database system
 - **University of Bradford** for academic supervision and support
-- **Dissertation Supervisor:** [Supervisor Name] for guidance throughout the research
+- **Dissertation Supervisor:** [Dr Irfan] for guidance throughout the research
 - **Chart.js** for the excellent data visualization library
 
 ---
