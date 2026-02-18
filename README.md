@@ -178,7 +178,7 @@ Simply visit: **[https://simaco-do.github.io/wb-power-dashboard/](https://simaco
 
 ---
 
-## 🎓 Research Contributions
+##  Research Contributions
 
 ### Methodological
 - Effective handling of severe class imbalance (11.3:1 ratio)
