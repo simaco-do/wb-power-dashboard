@@ -9,28 +9,28 @@
 
 ---
 
-## 🎯 Live Dashboard
+##  Live Dashboard
 
 **[Click here to view the live interactive dashboard →](https://simaco-do.github.io/wb-power-dashboard/)**
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This interactive web-based dashboard visualizes equipment failure predictions using machine learning algorithms trained on 10 years of operational data from WB Power Services Ltd's Protean database system.
 
 ### Key Features
 
-- ⚡ **Real-time Risk Prediction**: Predict equipment failure risk with 96.52% F1 score
-- 📈 **Interactive Visualizations**: Dynamic charts showing model performance and risk patterns
-- 🔍 **HDG Equipment Analysis**: Detailed analysis of Hire Desk Group (HDG) equipment showing 12.9× higher failure risk
-- 📉 **Bathtub Curve Analysis**: Equipment age-based failure patterns
-- 🎯 **Feature Importance**: Top predictive features from the LightGBM model
-- 📱 **Responsive Design**: Works on desktop, tablet, and mobile devices
+-  **Real-time Risk Prediction**: Predict equipment failure risk with 96.52% F1 score
+-  **Interactive Visualizations**: Dynamic charts showing model performance and risk patterns
+-  **HDG Equipment Analysis**: Detailed analysis of Hire Desk Group (HDG) equipment showing 12.9× higher failure risk
+-  **Bathtub Curve Analysis**: Equipment age-based failure patterns
+-  **Feature Importance**: Top predictive features from the LightGBM model
+-  **Responsive Design**: Works on desktop, tablet, and mobile devices
 
 ---
 
-## 📚 Academic Information
+##  Academic Information
 
 **Student:** Simon Akporowhe  
 **Student ID:** 24044525  
@@ -43,7 +43,7 @@ This interactive web-based dashboard visualizes equipment failure predictions us
 
 ---
 
-## 🔬 Research Highlights
+##  Research Highlights
 
 ### Dataset
 - **Total Records:** 3,970,500 rows from 17 source tables
@@ -67,7 +67,7 @@ This interactive web-based dashboard visualizes equipment failure predictions us
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 - HTML5
@@ -92,7 +92,7 @@ This interactive web-based dashboard visualizes equipment failure predictions us
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 wb-power-dashboard/
@@ -106,7 +106,7 @@ wb-power-dashboard/
 
 ---
 
-## 🖼️ Dashboard Screenshots
+##  Dashboard Screenshots
 
 ### Overview Tab
 ![Dashboard Overview](https://via.placeholder.com/800x400?text=Dashboard+Overview)
@@ -124,7 +124,7 @@ wb-power-dashboard/
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ### View Online
 Simply visit: **[https://simaco-do.github.io/wb-power-dashboard/](https://simaco-do.github.io/wb-power-dashboard/)**
@@ -139,7 +139,7 @@ Simply visit: **[https://simaco-do.github.io/wb-power-dashboard/](https://simaco
 
 ---
 
-## 📊 Dashboard Sections
+##  Dashboard Sections
 
 ### 1. Overview
 - Final dataset summary (equipment_df: 20,233 × 92)
@@ -197,7 +197,7 @@ Simply visit: **[https://simaco-do.github.io/wb-power-dashboard/](https://simaco
 
 ---
 
-## 📝 Citations
+##  Citations
 
 If you use this dashboard or findings in your research, please cite:
 
@@ -215,7 +215,7 @@ If you use this dashboard or findings in your research, please cite:
 
 ---
 
-## 🔗 Links
+##  Links
 
 - **Live Dashboard:** [https://simaco-do.github.io/wb-power-dashboard/](https://simaco-do.github.io/wb-power-dashboard/)
 - **GitHub Repository:** [https://github.com/simaco-do/wb-power-dashboard](https://github.com/simaco-do/wb-power-dashboard)
@@ -224,7 +224,7 @@ If you use this dashboard or findings in your research, please cite:
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Simon Akporowhe**  
 MSc Applied AI and Data Analytics  
@@ -232,13 +232,13 @@ University of Bradford
 Student ID: 24044525
 
 For questions about this research or dashboard:
-- 📧 Email: simonakporowh40@gmail.com
-- 💼 LinkedIn: Simon Akporowhe(https://www.linkedin.com/in/simon.Akporowhe)
-- 🐙 GitHub: @simaco-do(https://github.com/simaco-do)
+-  Email: simonakporowh40@gmail.com
+-  LinkedIn: Simon Akporowhe(https://www.linkedin.com/in/simon.Akporowhe)
+-  GitHub: @simaco-do(https://github.com/simaco-do)
 
 ---
 
-## 📄 License
+##  License
 
 This project is part of an MSc dissertation at the University of Bradford.  
 The dashboard is publicly accessible for educational and research purposes.
@@ -247,12 +247,12 @@ The dashboard is publicly accessible for educational and research purposes.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **WB Power Services Ltd** for providing access to the Protean database system
 - **University of Bradford** for academic supervision and support
-- **Dissertation Supervisor:** [Dr Irfan] for guidance throughout the research
-- **Chart.js** for the excellent data visualization library
+- **Dissertation Supervisor:** Dr Irfan for guidance throughout the research
+
 
 ---
 
