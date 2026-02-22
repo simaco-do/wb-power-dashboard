@@ -132,7 +132,7 @@ Simply visit: **[https://simaco-do.github.io/wb-power-dashboard/](https://simaco
 ### Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/wb-power-dashboard.git
+   git clone https://github.com/simaco-do/wb-power-dashboard.git
    ```
 2. Open `index.html` in your web browser
 3. No build process or dependencies required!
