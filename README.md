@@ -102,25 +102,6 @@ wb-power-dashboard/
 └── assets/                # (Optional) Additional resources
     ├── images/           # Screenshots, diagrams
     └── data/             # Sample data files
-```
-
----
-
-##  Dashboard Screenshots
-
-### Overview Tab
-![Dashboard Overview](https://via.placeholder.com/800x400?text=Dashboard+Overview)
-*Binary classification distribution and key statistics*
-
-### Model Performance
-![Model Performance](https://via.placeholder.com/800x400?text=Model+Performance)
-*F1 scores and ROC AUC comparison across 8 ML algorithms*
-
-### HDG Analysis
-![HDG Analysis](https://via.placeholder.com/800x400?text=HDG+Equipment+Analysis)
-*12.9× failure rate differential between HDG and Non-HDG equipment*
-
-*(Replace placeholder images with actual screenshots of your dashboard)*
 
 ---
 
